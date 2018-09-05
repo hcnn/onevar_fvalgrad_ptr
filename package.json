@@ -1,0 +1,9 @@
+{
+  "name": "onevar_fvalgrad_ptr",
+  "version": "0.1.0",
+  "repo": "hcnn/onevar_fvalgrad_ptr",
+  "description": "function pointer with fval and grad as output for single-variable optimization",
+  "keywords": ["single-variable optimization", "one-variable optimization","target function", "gradient function"],
+  "license": "MIT",
+  "src": ["onevar_fvalgrad_ptr.h"]
+}
